@@ -1,4 +1,4 @@
-# Snake Game
+# 2048 Game
 
 This repository contains amazon clone that were developed to help developers learn and improve their skills in web development. Each project has its own folder and contains all the necessary files, including HTML, CSS, JavaScript.
 
@@ -6,7 +6,7 @@ This repository contains amazon clone that were developed to help developers lea
 
 # Installation
 To use these projects, simply clone or download the repository to your local machine:
-<p>git clone https://github.com/khushdiyora/snake-game.git</p>
+<p>git clone https://github.com/khushdiyora/2048-Game</p>
   
 # Usage
 Each project is contained within its own folder. To view the project, simply open the index.html file in your web browser. The CSS and JavaScript files are also included within the project folder.
