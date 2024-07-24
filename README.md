@@ -2,6 +2,12 @@
 
 This repository contains amazon clone that were developed to help developers learn and improve their skills in web development. Each project has its own folder and contains all the necessary files, including HTML, CSS, JavaScript.
 
+# Snapshot : 
+
+
+![Screenshot 2024-07-24 212518](https://github.com/user-attachments/assets/44c7ec4e-ba0b-4df2-92d6-6bcbb5621391)
+
+![Screenshot 2024-07-24 212524](https://github.com/user-attachments/assets/ee755385-ddab-4641-9153-02d558e3f289)
 
 
 # Installation
