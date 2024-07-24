@@ -4,7 +4,7 @@ This repository contains amazon clone that were developed to help developers lea
 
 ## Project Overview
 
-**Title:** 2048 Game
+**Title:** 2048 Game <br>
 **Author:** Khush
 
 # Snapshot : 
