@@ -1,6 +1,6 @@
 # 2048 Game
 
-This repository contains amazon clone that were developed to help developers learn and improve their skills in web development. Each project has its own folder and contains all the necessary files, including HTML, CSS, JavaScript.
+This repository contains 2048 Game that were developed to help developers learn and improve their skills in web development. Each project has its own folder and contains all the necessary files, including HTML, CSS, JavaScript.
 
 ## Project Overview
 
